@@ -1,0 +1,9 @@
+.formGroup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formInput {
+    margin: 0 15px;
+}

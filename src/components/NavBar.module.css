@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navBar {
+    background-color: purple;
+    height: 50px;
+    width: 30%;
+    text-align: right;
+    padding-right: 10px;
+    color: white;
+}
